@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m3\\Excercises\\Interest_is_Interesting\\Interest_is_Interesting\\Interest_is_Interesting.csproj",
+      "projectUniqueName": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m3\\Interest_is_Interesting\\Interest_is_Interesting\\Interest_is_Interesting.csproj",
       "projectName": "Interest_is_Interesting",
-      "projectPath": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m3\\Excercises\\Interest_is_Interesting\\Interest_is_Interesting\\Interest_is_Interesting.csproj",
+      "projectPath": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m3\\Interest_is_Interesting\\Interest_is_Interesting\\Interest_is_Interesting.csproj",
       "packagesPath": "C:\\Users\\Kristina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m3\\Excercises\\Interest_is_Interesting\\Interest_is_Interesting\\obj\\",
+      "outputPath": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m3\\Interest_is_Interesting\\Interest_is_Interesting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

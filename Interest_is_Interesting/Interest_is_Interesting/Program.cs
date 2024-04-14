@@ -23,6 +23,7 @@ namespace InterestIsInteresting
         //0.5% for a positive balance less than 1000 dollars.
         //1.621% for a positive balance greater than or equal to 1000 dollars and less than 5000 dollars.
         //2.475% for a positive balance greater than or equal to 5000 dollars.
+        // I wish we could get these numbers in real life
 
 
         public static float InterestRate(decimal balance)
