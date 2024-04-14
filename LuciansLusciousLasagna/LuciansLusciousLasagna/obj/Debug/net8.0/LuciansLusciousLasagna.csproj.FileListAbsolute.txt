@@ -1,0 +1,14 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LuciansLusciousLasagna\LuciansLusciousLasagna\bin\Debug\net8.0\LuciansLusciousLasagna.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LuciansLusciousLasagna\LuciansLusciousLasagna\bin\Debug\net8.0\LuciansLusciousLasagna.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LuciansLusciousLasagna\LuciansLusciousLasagna\bin\Debug\net8.0\LuciansLusciousLasagna.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LuciansLusciousLasagna\LuciansLusciousLasagna\bin\Debug\net8.0\LuciansLusciousLasagna.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LuciansLusciousLasagna\LuciansLusciousLasagna\bin\Debug\net8.0\LuciansLusciousLasagna.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LuciansLusciousLasagna\LuciansLusciousLasagna\obj\Debug\net8.0\LuciansLusciousLasagna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LuciansLusciousLasagna\LuciansLusciousLasagna\obj\Debug\net8.0\LuciansLusciousLasagna.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LuciansLusciousLasagna\LuciansLusciousLasagna\obj\Debug\net8.0\LuciansLusciousLasagna.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LuciansLusciousLasagna\LuciansLusciousLasagna\obj\Debug\net8.0\LuciansLusciousLasagna.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LuciansLusciousLasagna\LuciansLusciousLasagna\obj\Debug\net8.0\LuciansLusciousLasagna.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LuciansLusciousLasagna\LuciansLusciousLasagna\obj\Debug\net8.0\refint\LuciansLusciousLasagna.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LuciansLusciousLasagna\LuciansLusciousLasagna\obj\Debug\net8.0\LuciansLusciousLasagna.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LuciansLusciousLasagna\LuciansLusciousLasagna\obj\Debug\net8.0\LuciansLusciousLasagna.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LuciansLusciousLasagna\LuciansLusciousLasagna\obj\Debug\net8.0\ref\LuciansLusciousLasagna.dll
