@@ -1,0 +1,14 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\infiltration\Annalyn's Infiltration\obj\Debug\net8.0\Annalyn's Infiltration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\infiltration\Annalyn's Infiltration\obj\Debug\net8.0\Annalyn's Infiltration.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\infiltration\Annalyn's Infiltration\obj\Debug\net8.0\Annalyn's Infiltration.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\infiltration\Annalyn's Infiltration\obj\Debug\net8.0\Annalyn's Infiltration.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\infiltration\Annalyn's Infiltration\bin\Debug\net8.0\Annalyn's Infiltration.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\infiltration\Annalyn's Infiltration\bin\Debug\net8.0\Annalyn's Infiltration.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\infiltration\Annalyn's Infiltration\bin\Debug\net8.0\Annalyn's Infiltration.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\infiltration\Annalyn's Infiltration\bin\Debug\net8.0\Annalyn's Infiltration.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\infiltration\Annalyn's Infiltration\bin\Debug\net8.0\Annalyn's Infiltration.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\infiltration\Annalyn's Infiltration\obj\Debug\net8.0\Annalyn's Infiltration.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\infiltration\Annalyn's Infiltration\obj\Debug\net8.0\refint\Annalyn's Infiltration.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\infiltration\Annalyn's Infiltration\obj\Debug\net8.0\Annalyn's Infiltration.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\infiltration\Annalyn's Infiltration\obj\Debug\net8.0\Annalyn's Infiltration.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\infiltration\Annalyn's Infiltration\obj\Debug\net8.0\ref\Annalyn's Infiltration.dll
