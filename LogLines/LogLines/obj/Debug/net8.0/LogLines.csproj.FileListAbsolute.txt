@@ -1,0 +1,14 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LogLines\LogLines\bin\Debug\net8.0\LogLines.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LogLines\LogLines\bin\Debug\net8.0\LogLines.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LogLines\LogLines\bin\Debug\net8.0\LogLines.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LogLines\LogLines\bin\Debug\net8.0\LogLines.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LogLines\LogLines\bin\Debug\net8.0\LogLines.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LogLines\LogLines\obj\Debug\net8.0\LogLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LogLines\LogLines\obj\Debug\net8.0\LogLines.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LogLines\LogLines\obj\Debug\net8.0\LogLines.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LogLines\LogLines\obj\Debug\net8.0\LogLines.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LogLines\LogLines\obj\Debug\net8.0\LogLines.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LogLines\LogLines\obj\Debug\net8.0\refint\LogLines.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LogLines\LogLines\obj\Debug\net8.0\LogLines.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LogLines\LogLines\obj\Debug\net8.0\LogLines.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\LogLines\LogLines\obj\Debug\net8.0\ref\LogLines.dll
