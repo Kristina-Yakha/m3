@@ -1,0 +1,14 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Cars_Asseble\Cars_Asseble\bin\Debug\net8.0\Cars_Asseble.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Cars_Asseble\Cars_Asseble\bin\Debug\net8.0\Cars_Asseble.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Cars_Asseble\Cars_Asseble\bin\Debug\net8.0\Cars_Asseble.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Cars_Asseble\Cars_Asseble\bin\Debug\net8.0\Cars_Asseble.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Cars_Asseble\Cars_Asseble\bin\Debug\net8.0\Cars_Asseble.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Cars_Asseble\Cars_Asseble\obj\Debug\net8.0\Cars_Asseble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Cars_Asseble\Cars_Asseble\obj\Debug\net8.0\Cars_Asseble.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Cars_Asseble\Cars_Asseble\obj\Debug\net8.0\Cars_Asseble.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Cars_Asseble\Cars_Asseble\obj\Debug\net8.0\Cars_Asseble.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Cars_Asseble\Cars_Asseble\obj\Debug\net8.0\Cars_Asseble.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Cars_Asseble\Cars_Asseble\obj\Debug\net8.0\refint\Cars_Asseble.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Cars_Asseble\Cars_Asseble\obj\Debug\net8.0\Cars_Asseble.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Cars_Asseble\Cars_Asseble\obj\Debug\net8.0\Cars_Asseble.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Cars_Asseble\Cars_Asseble\obj\Debug\net8.0\ref\Cars_Asseble.dll
