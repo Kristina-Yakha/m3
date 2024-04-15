@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\NeedForSpeed\NeedForSpeed\bin\Debug\net8.0\NeedForSpeed.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\NeedForSpeed\NeedForSpeed\bin\Debug\net8.0\NeedForSpeed.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\NeedForSpeed\NeedForSpeed\bin\Debug\net8.0\NeedForSpeed.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\NeedForSpeed\NeedForSpeed\bin\Debug\net8.0\NeedForSpeed.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\NeedForSpeed\NeedForSpeed\bin\Debug\net8.0\NeedForSpeed.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\NeedForSpeed\NeedForSpeed\obj\Debug\net8.0\NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\NeedForSpeed\NeedForSpeed\obj\Debug\net8.0\NeedForSpeed.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\NeedForSpeed\NeedForSpeed\obj\Debug\net8.0\NeedForSpeed.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\NeedForSpeed\NeedForSpeed\obj\Debug\net8.0\NeedForSpeed.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\NeedForSpeed\NeedForSpeed\obj\Debug\net8.0\NeedForSpeed.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\NeedForSpeed\NeedForSpeed\obj\Debug\net8.0\NeedForSpeed.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\NeedForSpeed\NeedForSpeed\obj\Debug\net8.0\refint\NeedForSpeed.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\NeedForSpeed\NeedForSpeed\obj\Debug\net8.0\NeedForSpeed.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\NeedForSpeed\NeedForSpeed\obj\Debug\net8.0\NeedForSpeed.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\NeedForSpeed\NeedForSpeed\obj\Debug\net8.0\ref\NeedForSpeed.dll
