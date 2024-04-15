@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Elons_Toys\Elons_Toys\bin\Debug\net8.0\Elons_Toys.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Elons_Toys\Elons_Toys\bin\Debug\net8.0\Elons_Toys.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Elons_Toys\Elons_Toys\bin\Debug\net8.0\Elons_Toys.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Elons_Toys\Elons_Toys\bin\Debug\net8.0\Elons_Toys.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Elons_Toys\Elons_Toys\bin\Debug\net8.0\Elons_Toys.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Elons_Toys\Elons_Toys\obj\Debug\net8.0\Elons_Toys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Elons_Toys\Elons_Toys\obj\Debug\net8.0\Elons_Toys.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Elons_Toys\Elons_Toys\obj\Debug\net8.0\Elons_Toys.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Elons_Toys\Elons_Toys\obj\Debug\net8.0\Elons_Toys.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Elons_Toys\Elons_Toys\obj\Debug\net8.0\Elons_Toys.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Elons_Toys\Elons_Toys\obj\Debug\net8.0\Elons_Toys.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Elons_Toys\Elons_Toys\obj\Debug\net8.0\refint\Elons_Toys.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Elons_Toys\Elons_Toys\obj\Debug\net8.0\Elons_Toys.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Elons_Toys\Elons_Toys\obj\Debug\net8.0\Elons_Toys.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Elons_Toys\Elons_Toys\obj\Debug\net8.0\ref\Elons_Toys.dll
