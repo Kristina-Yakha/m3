@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace InterestIsInteresting
 {
@@ -7,19 +8,22 @@ namespace InterestIsInteresting
         public static void Main(string[] args)
         {
             var SavingsAccount = new SavingsAccount();
-            decimal balance = 200.75m;
-            decimal targetBalance = 214.88m;
 
-            //Why does it not work, if i try to get the input via console?
+            double balance;
+            double targetBalance;
+            //double balance = 200.75;
+            //double targetBalance = 214.88;
 
-            //Console.Write("Your balance: ");
-            //decimal balance = Convert.ToDecimal(Console.Read());
-            //Console.Write("Your target balance: ");
-            //decimal targetBalance = Convert.ToDecimal(Console.Read());
+            //ReadLine for correct console input, also the ReadLine requires european number punctuation 200,75 instead of 200.75
+
+            Console.Write("Your balance: ");
+            balance = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.Write("Your target balance: ");
+            targetBalance = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.WriteLine("Your interest rate: " + SavingsAccount.InterestRate(balance));
-            Console.WriteLine("Your interest: " + SavingsAccount.Interest(balance)); 
-            Console.WriteLine("Your annual balance update is: " + SavingsAccount.AnnualBalanceUpdate(balance));
+            Console.WriteLine("Your interest: " + Math.Round(SavingsAccount.Interest(balance),4)); 
+            Console.WriteLine("Your annual balance update is: " + Math.Round(SavingsAccount.AnnualBalanceUpdate(balance),4));
             Console.WriteLine("Years needed to reach your desired balance: " + SavingsAccount.YearsBeforeDesiredBalance(balance, targetBalance));
 
         }
@@ -35,7 +39,7 @@ namespace InterestIsInteresting
         //2.475% for a positive balance greater than or equal to 5000 dollars.
         
 
-        public static float InterestRate(decimal balance)
+        public static float InterestRate(double balance)
         {
             float interestRate = 0;
 
@@ -60,25 +64,25 @@ namespace InterestIsInteresting
 
         //returns 0,25.. why?
 
-        public static decimal Interest(decimal balance)
+        public static double Interest(double balance)
         {
-            decimal interest =  (decimal)InterestRate(balance) * balance;
+            double interest =  (double)InterestRate(balance) * balance;
 
             return interest;
 
          }
 
         //Implement the (static) SavingsAccount.AnnualBalanceUpdate() method to calculate the annual balance update, taking into account the interest rate:
-        public static decimal AnnualBalanceUpdate(decimal balance)
+        public static double AnnualBalanceUpdate(double balance)
         {
 
-            decimal updatedBalance = Interest(balance) + balance;
+            double updatedBalance = Interest(balance) + balance;
             return updatedBalance;
         }
 
         //Implement the (static) SavingsAccount.YearsBeforeDesiredBalance() method to calculate the minimum number of years required to reach the desired balance given annually compounding interest:
 
-        public static int YearsBeforeDesiredBalance(decimal balance, decimal targetBalance)
+        public static int YearsBeforeDesiredBalance(double balance, double targetBalance)
         {
             int years = 0;
             
