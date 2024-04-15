@@ -7,13 +7,15 @@ namespace InterestIsInteresting
         public static void Main(string[] args)
         {
             var SavingsAccount = new SavingsAccount();
-            //decimal balance = 200.75m;
-            
+            decimal balance = 200.75m;
+            decimal targetBalance = 214.88m;
 
-            Console.Write("Your balance: ");
-            decimal balance = Convert.ToDecimal(Console.Read());
-            Console.Write("Your target balance: ");
-            decimal targetBalance = Convert.ToDecimal(Console.Read());
+            //Why does it not work, if i try to get the input via console?
+
+            //Console.Write("Your balance: ");
+            //decimal balance = Convert.ToDecimal(Console.Read());
+            //Console.Write("Your target balance: ");
+            //decimal targetBalance = Convert.ToDecimal(Console.Read());
 
             Console.WriteLine("Your interest rate: " + SavingsAccount.InterestRate(balance));
             Console.WriteLine("Your interest: " + SavingsAccount.Interest(balance)); 
