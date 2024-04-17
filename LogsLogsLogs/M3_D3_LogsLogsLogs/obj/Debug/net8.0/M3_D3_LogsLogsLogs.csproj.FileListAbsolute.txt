@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\LogsLogsLogs\M3_D3_LogsLogsLogs\obj\Debug\net8.0\M3_D3_LogsLogsLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\LogsLogsLogs\M3_D3_LogsLogsLogs\obj\Debug\net8.0\M3_D3_LogsLogsLogs.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\LogsLogsLogs\M3_D3_LogsLogsLogs\obj\Debug\net8.0\M3_D3_LogsLogsLogs.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\LogsLogsLogs\M3_D3_LogsLogsLogs\obj\Debug\net8.0\M3_D3_LogsLogsLogs.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\LogsLogsLogs\M3_D3_LogsLogsLogs\obj\Debug\net8.0\M3_D3_LogsLogsLogs.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\LogsLogsLogs\M3_D3_LogsLogsLogs\bin\Debug\net8.0\M3_D3_LogsLogsLogs.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\LogsLogsLogs\M3_D3_LogsLogsLogs\bin\Debug\net8.0\M3_D3_LogsLogsLogs.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\LogsLogsLogs\M3_D3_LogsLogsLogs\bin\Debug\net8.0\M3_D3_LogsLogsLogs.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\LogsLogsLogs\M3_D3_LogsLogsLogs\bin\Debug\net8.0\M3_D3_LogsLogsLogs.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\LogsLogsLogs\M3_D3_LogsLogsLogs\bin\Debug\net8.0\M3_D3_LogsLogsLogs.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\LogsLogsLogs\M3_D3_LogsLogsLogs\obj\Debug\net8.0\M3_D3_LogsLogsLogs.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\LogsLogsLogs\M3_D3_LogsLogsLogs\obj\Debug\net8.0\refint\M3_D3_LogsLogsLogs.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\LogsLogsLogs\M3_D3_LogsLogsLogs\obj\Debug\net8.0\M3_D3_LogsLogsLogs.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\LogsLogsLogs\M3_D3_LogsLogsLogs\obj\Debug\net8.0\M3_D3_LogsLogsLogs.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\LogsLogsLogs\M3_D3_LogsLogsLogs\obj\Debug\net8.0\ref\M3_D3_LogsLogsLogs.dll
