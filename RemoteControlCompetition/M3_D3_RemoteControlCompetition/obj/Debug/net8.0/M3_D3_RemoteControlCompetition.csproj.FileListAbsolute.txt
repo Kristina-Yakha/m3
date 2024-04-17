@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\RemoteControlCompetition\M3_D3_RemoteControlCompetition\bin\Debug\net8.0\M3_D3_RemoteControlCompetition.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\RemoteControlCompetition\M3_D3_RemoteControlCompetition\bin\Debug\net8.0\M3_D3_RemoteControlCompetition.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\RemoteControlCompetition\M3_D3_RemoteControlCompetition\bin\Debug\net8.0\M3_D3_RemoteControlCompetition.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\RemoteControlCompetition\M3_D3_RemoteControlCompetition\bin\Debug\net8.0\M3_D3_RemoteControlCompetition.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\RemoteControlCompetition\M3_D3_RemoteControlCompetition\bin\Debug\net8.0\M3_D3_RemoteControlCompetition.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\RemoteControlCompetition\M3_D3_RemoteControlCompetition\obj\Debug\net8.0\M3_D3_RemoteControlCompetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\RemoteControlCompetition\M3_D3_RemoteControlCompetition\obj\Debug\net8.0\M3_D3_RemoteControlCompetition.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\RemoteControlCompetition\M3_D3_RemoteControlCompetition\obj\Debug\net8.0\M3_D3_RemoteControlCompetition.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\RemoteControlCompetition\M3_D3_RemoteControlCompetition\obj\Debug\net8.0\M3_D3_RemoteControlCompetition.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\RemoteControlCompetition\M3_D3_RemoteControlCompetition\obj\Debug\net8.0\M3_D3_RemoteControlCompetition.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\RemoteControlCompetition\M3_D3_RemoteControlCompetition\obj\Debug\net8.0\M3_D3_RemoteControlCompetition.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\RemoteControlCompetition\M3_D3_RemoteControlCompetition\obj\Debug\net8.0\refint\M3_D3_RemoteControlCompetition.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\RemoteControlCompetition\M3_D3_RemoteControlCompetition\obj\Debug\net8.0\M3_D3_RemoteControlCompetition.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\RemoteControlCompetition\M3_D3_RemoteControlCompetition\obj\Debug\net8.0\M3_D3_RemoteControlCompetition.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\RemoteControlCompetition\M3_D3_RemoteControlCompetition\obj\Debug\net8.0\ref\M3_D3_RemoteControlCompetition.dll
