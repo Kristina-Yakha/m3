@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\WizardsAndWarriors\M3_D3_WizardsAndWarriors\bin\Debug\net8.0\M3_D3_WizardsAndWarriors.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\WizardsAndWarriors\M3_D3_WizardsAndWarriors\bin\Debug\net8.0\M3_D3_WizardsAndWarriors.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\WizardsAndWarriors\M3_D3_WizardsAndWarriors\bin\Debug\net8.0\M3_D3_WizardsAndWarriors.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\WizardsAndWarriors\M3_D3_WizardsAndWarriors\bin\Debug\net8.0\M3_D3_WizardsAndWarriors.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\WizardsAndWarriors\M3_D3_WizardsAndWarriors\bin\Debug\net8.0\M3_D3_WizardsAndWarriors.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\WizardsAndWarriors\M3_D3_WizardsAndWarriors\obj\Debug\net8.0\M3_D3_WizardsAndWarriors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\WizardsAndWarriors\M3_D3_WizardsAndWarriors\obj\Debug\net8.0\M3_D3_WizardsAndWarriors.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\WizardsAndWarriors\M3_D3_WizardsAndWarriors\obj\Debug\net8.0\M3_D3_WizardsAndWarriors.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\WizardsAndWarriors\M3_D3_WizardsAndWarriors\obj\Debug\net8.0\M3_D3_WizardsAndWarriors.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\WizardsAndWarriors\M3_D3_WizardsAndWarriors\obj\Debug\net8.0\M3_D3_WizardsAndWarriors.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\WizardsAndWarriors\M3_D3_WizardsAndWarriors\obj\Debug\net8.0\M3_D3_WizardsAndWarriors.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\WizardsAndWarriors\M3_D3_WizardsAndWarriors\obj\Debug\net8.0\refint\M3_D3_WizardsAndWarriors.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\WizardsAndWarriors\M3_D3_WizardsAndWarriors\obj\Debug\net8.0\M3_D3_WizardsAndWarriors.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\WizardsAndWarriors\M3_D3_WizardsAndWarriors\obj\Debug\net8.0\M3_D3_WizardsAndWarriors.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\WizardsAndWarriors\M3_D3_WizardsAndWarriors\obj\Debug\net8.0\ref\M3_D3_WizardsAndWarriors.dll
