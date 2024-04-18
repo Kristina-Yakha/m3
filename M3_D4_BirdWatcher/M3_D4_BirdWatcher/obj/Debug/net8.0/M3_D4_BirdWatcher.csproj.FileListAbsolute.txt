@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_BirdWatcher\M3_D4_BirdWatcher\bin\Debug\net8.0\M3_D4_BirdWatcher.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_BirdWatcher\M3_D4_BirdWatcher\bin\Debug\net8.0\M3_D4_BirdWatcher.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_BirdWatcher\M3_D4_BirdWatcher\bin\Debug\net8.0\M3_D4_BirdWatcher.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_BirdWatcher\M3_D4_BirdWatcher\bin\Debug\net8.0\M3_D4_BirdWatcher.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_BirdWatcher\M3_D4_BirdWatcher\bin\Debug\net8.0\M3_D4_BirdWatcher.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_BirdWatcher\M3_D4_BirdWatcher\obj\Debug\net8.0\M3_D4_BirdWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_BirdWatcher\M3_D4_BirdWatcher\obj\Debug\net8.0\M3_D4_BirdWatcher.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_BirdWatcher\M3_D4_BirdWatcher\obj\Debug\net8.0\M3_D4_BirdWatcher.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_BirdWatcher\M3_D4_BirdWatcher\obj\Debug\net8.0\M3_D4_BirdWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_BirdWatcher\M3_D4_BirdWatcher\obj\Debug\net8.0\M3_D4_BirdWatcher.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_BirdWatcher\M3_D4_BirdWatcher\obj\Debug\net8.0\M3_D4_BirdWatcher.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_BirdWatcher\M3_D4_BirdWatcher\obj\Debug\net8.0\refint\M3_D4_BirdWatcher.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_BirdWatcher\M3_D4_BirdWatcher\obj\Debug\net8.0\M3_D4_BirdWatcher.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_BirdWatcher\M3_D4_BirdWatcher\obj\Debug\net8.0\M3_D4_BirdWatcher.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_BirdWatcher\M3_D4_BirdWatcher\obj\Debug\net8.0\ref\M3_D4_BirdWatcher.dll

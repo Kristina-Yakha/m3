@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_CoinFlip\M3_D4_CoinFlip\bin\Debug\net8.0\M3_D4_CoinFlip.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_CoinFlip\M3_D4_CoinFlip\bin\Debug\net8.0\M3_D4_CoinFlip.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_CoinFlip\M3_D4_CoinFlip\bin\Debug\net8.0\M3_D4_CoinFlip.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_CoinFlip\M3_D4_CoinFlip\bin\Debug\net8.0\M3_D4_CoinFlip.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_CoinFlip\M3_D4_CoinFlip\bin\Debug\net8.0\M3_D4_CoinFlip.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_CoinFlip\M3_D4_CoinFlip\obj\Debug\net8.0\M3_D4_CoinFlip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_CoinFlip\M3_D4_CoinFlip\obj\Debug\net8.0\M3_D4_CoinFlip.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_CoinFlip\M3_D4_CoinFlip\obj\Debug\net8.0\M3_D4_CoinFlip.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_CoinFlip\M3_D4_CoinFlip\obj\Debug\net8.0\M3_D4_CoinFlip.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_CoinFlip\M3_D4_CoinFlip\obj\Debug\net8.0\M3_D4_CoinFlip.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_CoinFlip\M3_D4_CoinFlip\obj\Debug\net8.0\M3_D4_CoinFlip.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_CoinFlip\M3_D4_CoinFlip\obj\Debug\net8.0\refint\M3_D4_CoinFlip.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_CoinFlip\M3_D4_CoinFlip\obj\Debug\net8.0\M3_D4_CoinFlip.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_CoinFlip\M3_D4_CoinFlip\obj\Debug\net8.0\M3_D4_CoinFlip.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D4_CoinFlip\M3_D4_CoinFlip\obj\Debug\net8.0\ref\M3_D4_CoinFlip.dll
