@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_TypeConversions\M3_D6_TypeConversions\bin\Debug\net8.0\M3_D6_TypeConversions.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_TypeConversions\M3_D6_TypeConversions\bin\Debug\net8.0\M3_D6_TypeConversions.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_TypeConversions\M3_D6_TypeConversions\bin\Debug\net8.0\M3_D6_TypeConversions.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_TypeConversions\M3_D6_TypeConversions\bin\Debug\net8.0\M3_D6_TypeConversions.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_TypeConversions\M3_D6_TypeConversions\bin\Debug\net8.0\M3_D6_TypeConversions.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_TypeConversions\M3_D6_TypeConversions\obj\Debug\net8.0\M3_D6_TypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_TypeConversions\M3_D6_TypeConversions\obj\Debug\net8.0\M3_D6_TypeConversions.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_TypeConversions\M3_D6_TypeConversions\obj\Debug\net8.0\M3_D6_TypeConversions.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_TypeConversions\M3_D6_TypeConversions\obj\Debug\net8.0\M3_D6_TypeConversions.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_TypeConversions\M3_D6_TypeConversions\obj\Debug\net8.0\M3_D6_TypeConversions.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_TypeConversions\M3_D6_TypeConversions\obj\Debug\net8.0\M3_D6_TypeConversions.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_TypeConversions\M3_D6_TypeConversions\obj\Debug\net8.0\refint\M3_D6_TypeConversions.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_TypeConversions\M3_D6_TypeConversions\obj\Debug\net8.0\M3_D6_TypeConversions.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_TypeConversions\M3_D6_TypeConversions\obj\Debug\net8.0\M3_D6_TypeConversions.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_TypeConversions\M3_D6_TypeConversions\obj\Debug\net8.0\ref\M3_D6_TypeConversions.dll

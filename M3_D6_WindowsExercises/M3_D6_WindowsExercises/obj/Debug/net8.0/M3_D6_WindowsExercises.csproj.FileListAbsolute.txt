@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_WindowsExercises\M3_D6_WindowsExercises\bin\Debug\net8.0\M3_D6_WindowsExercises.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_WindowsExercises\M3_D6_WindowsExercises\bin\Debug\net8.0\M3_D6_WindowsExercises.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_WindowsExercises\M3_D6_WindowsExercises\bin\Debug\net8.0\M3_D6_WindowsExercises.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_WindowsExercises\M3_D6_WindowsExercises\bin\Debug\net8.0\M3_D6_WindowsExercises.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_WindowsExercises\M3_D6_WindowsExercises\bin\Debug\net8.0\M3_D6_WindowsExercises.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_WindowsExercises\M3_D6_WindowsExercises\obj\Debug\net8.0\M3_D6_WindowsExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_WindowsExercises\M3_D6_WindowsExercises\obj\Debug\net8.0\M3_D6_WindowsExercises.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_WindowsExercises\M3_D6_WindowsExercises\obj\Debug\net8.0\M3_D6_WindowsExercises.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_WindowsExercises\M3_D6_WindowsExercises\obj\Debug\net8.0\M3_D6_WindowsExercises.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_WindowsExercises\M3_D6_WindowsExercises\obj\Debug\net8.0\M3_D6_WindowsExercises.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_WindowsExercises\M3_D6_WindowsExercises\obj\Debug\net8.0\M3_D6_WindowsExercises.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_WindowsExercises\M3_D6_WindowsExercises\obj\Debug\net8.0\refint\M3_D6_WindowsExercises.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_WindowsExercises\M3_D6_WindowsExercises\obj\Debug\net8.0\M3_D6_WindowsExercises.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_WindowsExercises\M3_D6_WindowsExercises\obj\Debug\net8.0\M3_D6_WindowsExercises.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_WindowsExercises\M3_D6_WindowsExercises\obj\Debug\net8.0\ref\M3_D6_WindowsExercises.dll
