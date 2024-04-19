@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_StringReversal\M3_D6_StringReversal\obj\Debug\net8.0\M3_D6_StringReversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_StringReversal\M3_D6_StringReversal\obj\Debug\net8.0\M3_D6_StringReversal.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_StringReversal\M3_D6_StringReversal\obj\Debug\net8.0\M3_D6_StringReversal.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_StringReversal\M3_D6_StringReversal\obj\Debug\net8.0\M3_D6_StringReversal.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_StringReversal\M3_D6_StringReversal\obj\Debug\net8.0\M3_D6_StringReversal.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_StringReversal\M3_D6_StringReversal\bin\Debug\net8.0\M3_D6_StringReversal.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_StringReversal\M3_D6_StringReversal\bin\Debug\net8.0\M3_D6_StringReversal.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_StringReversal\M3_D6_StringReversal\bin\Debug\net8.0\M3_D6_StringReversal.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_StringReversal\M3_D6_StringReversal\bin\Debug\net8.0\M3_D6_StringReversal.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_StringReversal\M3_D6_StringReversal\bin\Debug\net8.0\M3_D6_StringReversal.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_StringReversal\M3_D6_StringReversal\obj\Debug\net8.0\M3_D6_StringReversal.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_StringReversal\M3_D6_StringReversal\obj\Debug\net8.0\refint\M3_D6_StringReversal.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_StringReversal\M3_D6_StringReversal\obj\Debug\net8.0\M3_D6_StringReversal.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_StringReversal\M3_D6_StringReversal\obj\Debug\net8.0\M3_D6_StringReversal.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_StringReversal\M3_D6_StringReversal\obj\Debug\net8.0\ref\M3_D6_StringReversal.dll
