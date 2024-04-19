@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel;
 using System.Globalization;
 
 namespace InterestIsInteresting
@@ -43,7 +44,7 @@ namespace InterestIsInteresting
         {
             float interestRate = 0;
 
-            if (balance <= 0)
+            if (balance < 0)
             {
                 interestRate = 0.03213f;
             } else if (balance < 1000)
