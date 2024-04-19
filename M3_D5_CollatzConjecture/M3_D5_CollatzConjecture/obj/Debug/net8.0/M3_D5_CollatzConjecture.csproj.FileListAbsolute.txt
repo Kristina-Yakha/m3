@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_CollatzConjecture\M3_D5_CollatzConjecture\bin\Debug\net8.0\M3_D5_CollatzConjecture.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_CollatzConjecture\M3_D5_CollatzConjecture\bin\Debug\net8.0\M3_D5_CollatzConjecture.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_CollatzConjecture\M3_D5_CollatzConjecture\bin\Debug\net8.0\M3_D5_CollatzConjecture.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_CollatzConjecture\M3_D5_CollatzConjecture\bin\Debug\net8.0\M3_D5_CollatzConjecture.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_CollatzConjecture\M3_D5_CollatzConjecture\bin\Debug\net8.0\M3_D5_CollatzConjecture.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_CollatzConjecture\M3_D5_CollatzConjecture\obj\Debug\net8.0\M3_D5_CollatzConjecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_CollatzConjecture\M3_D5_CollatzConjecture\obj\Debug\net8.0\M3_D5_CollatzConjecture.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_CollatzConjecture\M3_D5_CollatzConjecture\obj\Debug\net8.0\M3_D5_CollatzConjecture.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_CollatzConjecture\M3_D5_CollatzConjecture\obj\Debug\net8.0\M3_D5_CollatzConjecture.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_CollatzConjecture\M3_D5_CollatzConjecture\obj\Debug\net8.0\M3_D5_CollatzConjecture.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_CollatzConjecture\M3_D5_CollatzConjecture\obj\Debug\net8.0\M3_D5_CollatzConjecture.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_CollatzConjecture\M3_D5_CollatzConjecture\obj\Debug\net8.0\refint\M3_D5_CollatzConjecture.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_CollatzConjecture\M3_D5_CollatzConjecture\obj\Debug\net8.0\M3_D5_CollatzConjecture.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_CollatzConjecture\M3_D5_CollatzConjecture\obj\Debug\net8.0\M3_D5_CollatzConjecture.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_CollatzConjecture\M3_D5_CollatzConjecture\obj\Debug\net8.0\ref\M3_D5_CollatzConjecture.dll
