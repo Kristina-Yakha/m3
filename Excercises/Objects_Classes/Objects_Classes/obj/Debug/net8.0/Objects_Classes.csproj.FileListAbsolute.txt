@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Objects_Classes\Objects_Classes\bin\Debug\net8.0\Objects_Classes.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Objects_Classes\Objects_Classes\bin\Debug\net8.0\Objects_Classes.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Objects_Classes\Objects_Classes\bin\Debug\net8.0\Objects_Classes.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Objects_Classes\Objects_Classes\bin\Debug\net8.0\Objects_Classes.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Objects_Classes\Objects_Classes\bin\Debug\net8.0\Objects_Classes.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Objects_Classes\Objects_Classes\obj\Debug\net8.0\Objects_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Objects_Classes\Objects_Classes\obj\Debug\net8.0\Objects_Classes.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Objects_Classes\Objects_Classes\obj\Debug\net8.0\Objects_Classes.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Objects_Classes\Objects_Classes\obj\Debug\net8.0\Objects_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Objects_Classes\Objects_Classes\obj\Debug\net8.0\Objects_Classes.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Objects_Classes\Objects_Classes\obj\Debug\net8.0\Objects_Classes.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Objects_Classes\Objects_Classes\obj\Debug\net8.0\refint\Objects_Classes.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Objects_Classes\Objects_Classes\obj\Debug\net8.0\Objects_Classes.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Objects_Classes\Objects_Classes\obj\Debug\net8.0\Objects_Classes.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\Excercises\Objects_Classes\Objects_Classes\obj\Debug\net8.0\ref\Objects_Classes.dll

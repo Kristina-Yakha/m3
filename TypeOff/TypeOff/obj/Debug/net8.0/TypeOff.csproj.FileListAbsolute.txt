@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\TypeOff\TypeOff\bin\Debug\net8.0\TypeOff.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\TypeOff\TypeOff\bin\Debug\net8.0\TypeOff.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\TypeOff\TypeOff\bin\Debug\net8.0\TypeOff.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\TypeOff\TypeOff\bin\Debug\net8.0\TypeOff.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\TypeOff\TypeOff\bin\Debug\net8.0\TypeOff.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\TypeOff\TypeOff\obj\Debug\net8.0\TypeOff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\TypeOff\TypeOff\obj\Debug\net8.0\TypeOff.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\TypeOff\TypeOff\obj\Debug\net8.0\TypeOff.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\TypeOff\TypeOff\obj\Debug\net8.0\TypeOff.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\TypeOff\TypeOff\obj\Debug\net8.0\TypeOff.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\TypeOff\TypeOff\obj\Debug\net8.0\TypeOff.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\TypeOff\TypeOff\obj\Debug\net8.0\refint\TypeOff.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\TypeOff\TypeOff\obj\Debug\net8.0\TypeOff.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\TypeOff\TypeOff\obj\Debug\net8.0\TypeOff.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\TypeOff\TypeOff\obj\Debug\net8.0\ref\TypeOff.dll

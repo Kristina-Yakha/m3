@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_WindowsCodingChallenges\M3_D5_WindowsCodingChallenges\bin\Debug\net8.0\M3_D5_WindowsCodingChallenges.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_WindowsCodingChallenges\M3_D5_WindowsCodingChallenges\bin\Debug\net8.0\M3_D5_WindowsCodingChallenges.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_WindowsCodingChallenges\M3_D5_WindowsCodingChallenges\bin\Debug\net8.0\M3_D5_WindowsCodingChallenges.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_WindowsCodingChallenges\M3_D5_WindowsCodingChallenges\bin\Debug\net8.0\M3_D5_WindowsCodingChallenges.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_WindowsCodingChallenges\M3_D5_WindowsCodingChallenges\bin\Debug\net8.0\M3_D5_WindowsCodingChallenges.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_WindowsCodingChallenges\M3_D5_WindowsCodingChallenges\obj\Debug\net8.0\M3_D5_WindowsCodingChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_WindowsCodingChallenges\M3_D5_WindowsCodingChallenges\obj\Debug\net8.0\M3_D5_WindowsCodingChallenges.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_WindowsCodingChallenges\M3_D5_WindowsCodingChallenges\obj\Debug\net8.0\M3_D5_WindowsCodingChallenges.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_WindowsCodingChallenges\M3_D5_WindowsCodingChallenges\obj\Debug\net8.0\M3_D5_WindowsCodingChallenges.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_WindowsCodingChallenges\M3_D5_WindowsCodingChallenges\obj\Debug\net8.0\M3_D5_WindowsCodingChallenges.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_WindowsCodingChallenges\M3_D5_WindowsCodingChallenges\obj\Debug\net8.0\M3_D5_WindowsCodingChallenges.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_WindowsCodingChallenges\M3_D5_WindowsCodingChallenges\obj\Debug\net8.0\refint\M3_D5_WindowsCodingChallenges.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_WindowsCodingChallenges\M3_D5_WindowsCodingChallenges\obj\Debug\net8.0\M3_D5_WindowsCodingChallenges.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_WindowsCodingChallenges\M3_D5_WindowsCodingChallenges\obj\Debug\net8.0\M3_D5_WindowsCodingChallenges.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_WindowsCodingChallenges\M3_D5_WindowsCodingChallenges\obj\Debug\net8.0\ref\M3_D5_WindowsCodingChallenges.dll

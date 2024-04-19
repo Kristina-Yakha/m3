@@ -85,7 +85,7 @@ public static class PlayAnalyzer
                 break;
             default:
                 throw new ArgumentOutOfRangeException("Shirt number does not exist.");
-             
+                break;
         }
 
         return position;
@@ -95,46 +95,64 @@ public static class PlayAnalyzer
     public static string AnalyzeOffField(object report)
     {
 
+        // Solution 2 with down casting
 
-        var type = report.GetType();
-
-        if (type == typeof(string))
+        switch (report)
         {
+            case string:
+                return (string)report;
+            case int:
+                return $"There are {report} supporters at the match.";
+            case Injury:
+                return $"Oh no! {((Injury)report).GetDescription()} Medics are on the field.";
+            case Foul:
+                return ((Foul)report).GetDescription();
+            case Incident:
+                return ((Incident)report).GetDescription();
+            case Manager:
+                string name = ((Manager)report).Name;
+                string club = ((Manager)report).Club;
+                if (club != null)
+                    return $"{name} ({club})";
+                else
+                    return name;
+            default:
+                throw new ArgumentException(typeof(Incident).ToString() + report.GetType().ToString());
+        }
+
+        // Solution 1 with else if and typeof
+        /*
+       var type = report.GetType();
+        
+           if (type == typeof(string)) {
             return (string)report;
-        }
-        else if (type == typeof(int))
-        {
-            return $"There are {report} supporters at the match.";
-        }
-        else if (type == typeof(Foul))
-        {
+        } else if (type == typeof(int) ) {
+           return $"There are {report} supporters at the match.";
+        } else if (type == typeof(Foul)){
             return "The referee deemed a foul.";
-        }
-        else if (type == typeof(Injury))
-        {
+        } else if (type == typeof(Injury)) {
             return $"Oh no! {((Injury)report).GetDescription()} Medics are on the field.";
-        }
-        else if (type == typeof(Incident))
-        {
-            return "An incident happened.";
-        }
-        else if (type == typeof(Manager))
-        {
+        } else if (type == typeof(Incident)) {
+           return "An incident happened.";
+        } else if (type == typeof(Manager)) {
             string name = ((Manager)report).Name;
-            string club = ((Manager)report).Club;
+            string club =  ((Manager)report).Club;
             if (club != null)
                 return $"{name} ({club})";
-            else
+            else 
                 return name;
         }
-
-        else
-        {
-            throw new ArgumentException(typeof(Incident).ToString() + report.GetType().ToString());
+    
+        else {
+            throw new ArgumentException(typeof(Incident).ToString()+report.GetType().ToString());
         }
-
-
+     
+       */
     }
 
 }
+
+
+
+
 

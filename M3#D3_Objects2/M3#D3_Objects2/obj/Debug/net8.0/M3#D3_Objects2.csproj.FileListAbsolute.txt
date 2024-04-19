@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3#D3_Objects2\M3#D3_Objects2\bin\Debug\net8.0\M3#D3_Objects2.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3#D3_Objects2\M3#D3_Objects2\bin\Debug\net8.0\M3#D3_Objects2.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3#D3_Objects2\M3#D3_Objects2\bin\Debug\net8.0\M3#D3_Objects2.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3#D3_Objects2\M3#D3_Objects2\bin\Debug\net8.0\M3#D3_Objects2.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3#D3_Objects2\M3#D3_Objects2\bin\Debug\net8.0\M3#D3_Objects2.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3#D3_Objects2\M3#D3_Objects2\obj\Debug\net8.0\M3#D3_Objects2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3#D3_Objects2\M3#D3_Objects2\obj\Debug\net8.0\M3#D3_Objects2.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3#D3_Objects2\M3#D3_Objects2\obj\Debug\net8.0\M3#D3_Objects2.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3#D3_Objects2\M3#D3_Objects2\obj\Debug\net8.0\M3#D3_Objects2.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3#D3_Objects2\M3#D3_Objects2\obj\Debug\net8.0\M3#D3_Objects2.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3#D3_Objects2\M3#D3_Objects2\obj\Debug\net8.0\M3#D3_Objects2.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3#D3_Objects2\M3#D3_Objects2\obj\Debug\net8.0\refint\M3#D3_Objects2.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3#D3_Objects2\M3#D3_Objects2\obj\Debug\net8.0\M3#D3_Objects2.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3#D3_Objects2\M3#D3_Objects2\obj\Debug\net8.0\M3#D3_Objects2.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3#D3_Objects2\M3#D3_Objects2\obj\Debug\net8.0\ref\M3#D3_Objects2.dll

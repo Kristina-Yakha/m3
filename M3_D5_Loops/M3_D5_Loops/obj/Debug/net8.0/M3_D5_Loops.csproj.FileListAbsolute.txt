@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_Loops\M3_D5_Loops\obj\Debug\net8.0\M3_D5_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_Loops\M3_D5_Loops\obj\Debug\net8.0\M3_D5_Loops.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_Loops\M3_D5_Loops\obj\Debug\net8.0\M3_D5_Loops.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_Loops\M3_D5_Loops\obj\Debug\net8.0\M3_D5_Loops.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_Loops\M3_D5_Loops\obj\Debug\net8.0\M3_D5_Loops.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_Loops\M3_D5_Loops\bin\Debug\net8.0\M3_D5_Loops.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_Loops\M3_D5_Loops\bin\Debug\net8.0\M3_D5_Loops.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_Loops\M3_D5_Loops\bin\Debug\net8.0\M3_D5_Loops.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_Loops\M3_D5_Loops\bin\Debug\net8.0\M3_D5_Loops.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_Loops\M3_D5_Loops\bin\Debug\net8.0\M3_D5_Loops.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_Loops\M3_D5_Loops\obj\Debug\net8.0\M3_D5_Loops.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_Loops\M3_D5_Loops\obj\Debug\net8.0\refint\M3_D5_Loops.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_Loops\M3_D5_Loops\obj\Debug\net8.0\M3_D5_Loops.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_Loops\M3_D5_Loops\obj\Debug\net8.0\M3_D5_Loops.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D5_Loops\M3_D5_Loops\obj\Debug\net8.0\ref\M3_D5_Loops.dll

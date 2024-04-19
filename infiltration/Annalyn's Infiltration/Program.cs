@@ -45,7 +45,7 @@ namespace AnnalynsInfiltration
 
             public bool CanSpy(bool prisonerAwake, bool archerAwake, bool knightAwake)
             {
-                if ((!prisonerAwake && !archerAwake && knightAwake) || (prisonerAwake && !archerAwake && !knightAwake) || (!prisonerAwake && archerAwake && !knightAwake))
+                if (prisonerAwake || archerAwake || knightAwake)
                     { 
                     return true; 
                 

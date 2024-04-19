@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m3\\Excercises\\infiltration\\Annalyn's Infiltration\\Annalyn's Infiltration.csproj": {}
+    "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m3\\infiltration\\Annalyn's Infiltration\\Annalyn's Infiltration.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m3\\Excercises\\infiltration\\Annalyn's Infiltration\\Annalyn's Infiltration.csproj": {
+    "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m3\\infiltration\\Annalyn's Infiltration\\Annalyn's Infiltration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m3\\Excercises\\infiltration\\Annalyn's Infiltration\\Annalyn's Infiltration.csproj",
+        "projectUniqueName": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m3\\infiltration\\Annalyn's Infiltration\\Annalyn's Infiltration.csproj",
         "projectName": "Annalyn's Infiltration",
-        "projectPath": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m3\\Excercises\\infiltration\\Annalyn's Infiltration\\Annalyn's Infiltration.csproj",
+        "projectPath": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m3\\infiltration\\Annalyn's Infiltration\\Annalyn's Infiltration.csproj",
         "packagesPath": "C:\\Users\\Kristina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m3\\Excercises\\infiltration\\Annalyn's Infiltration\\obj\\",
+        "outputPath": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m3\\infiltration\\Annalyn's Infiltration\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
