@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_SecureManchesterUnited\M3_D6_SecureManchesterUnited\bin\Debug\net8.0\M3_D6_SecureManchesterUnited.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_SecureManchesterUnited\M3_D6_SecureManchesterUnited\bin\Debug\net8.0\M3_D6_SecureManchesterUnited.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_SecureManchesterUnited\M3_D6_SecureManchesterUnited\bin\Debug\net8.0\M3_D6_SecureManchesterUnited.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_SecureManchesterUnited\M3_D6_SecureManchesterUnited\bin\Debug\net8.0\M3_D6_SecureManchesterUnited.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_SecureManchesterUnited\M3_D6_SecureManchesterUnited\bin\Debug\net8.0\M3_D6_SecureManchesterUnited.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_SecureManchesterUnited\M3_D6_SecureManchesterUnited\obj\Debug\net8.0\M3_D6_SecureManchesterUnited.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_SecureManchesterUnited\M3_D6_SecureManchesterUnited\obj\Debug\net8.0\M3_D6_SecureManchesterUnited.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_SecureManchesterUnited\M3_D6_SecureManchesterUnited\obj\Debug\net8.0\M3_D6_SecureManchesterUnited.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_SecureManchesterUnited\M3_D6_SecureManchesterUnited\obj\Debug\net8.0\M3_D6_SecureManchesterUnited.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_SecureManchesterUnited\M3_D6_SecureManchesterUnited\obj\Debug\net8.0\M3_D6_SecureManchesterUnited.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_SecureManchesterUnited\M3_D6_SecureManchesterUnited\obj\Debug\net8.0\M3_D6_SecureManchesterUnited.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_SecureManchesterUnited\M3_D6_SecureManchesterUnited\obj\Debug\net8.0\refint\M3_D6_SecureManchesterUnited.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_SecureManchesterUnited\M3_D6_SecureManchesterUnited\obj\Debug\net8.0\M3_D6_SecureManchesterUnited.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_SecureManchesterUnited\M3_D6_SecureManchesterUnited\obj\Debug\net8.0\M3_D6_SecureManchesterUnited.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D6_SecureManchesterUnited\M3_D6_SecureManchesterUnited\obj\Debug\net8.0\ref\M3_D6_SecureManchesterUnited.dll
