@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D7_HighSchoolSweethearts\M3_D7_HighSchoolSweethearts\bin\Debug\net8.0\M3_D7_HighSchoolSweethearts.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D7_HighSchoolSweethearts\M3_D7_HighSchoolSweethearts\bin\Debug\net8.0\M3_D7_HighSchoolSweethearts.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D7_HighSchoolSweethearts\M3_D7_HighSchoolSweethearts\bin\Debug\net8.0\M3_D7_HighSchoolSweethearts.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D7_HighSchoolSweethearts\M3_D7_HighSchoolSweethearts\bin\Debug\net8.0\M3_D7_HighSchoolSweethearts.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D7_HighSchoolSweethearts\M3_D7_HighSchoolSweethearts\bin\Debug\net8.0\M3_D7_HighSchoolSweethearts.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D7_HighSchoolSweethearts\M3_D7_HighSchoolSweethearts\obj\Debug\net8.0\M3_D7_HighSchoolSweethearts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D7_HighSchoolSweethearts\M3_D7_HighSchoolSweethearts\obj\Debug\net8.0\M3_D7_HighSchoolSweethearts.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D7_HighSchoolSweethearts\M3_D7_HighSchoolSweethearts\obj\Debug\net8.0\M3_D7_HighSchoolSweethearts.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D7_HighSchoolSweethearts\M3_D7_HighSchoolSweethearts\obj\Debug\net8.0\M3_D7_HighSchoolSweethearts.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D7_HighSchoolSweethearts\M3_D7_HighSchoolSweethearts\obj\Debug\net8.0\M3_D7_HighSchoolSweethearts.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D7_HighSchoolSweethearts\M3_D7_HighSchoolSweethearts\obj\Debug\net8.0\M3_D7_HighSchoolSweethearts.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D7_HighSchoolSweethearts\M3_D7_HighSchoolSweethearts\obj\Debug\net8.0\refint\M3_D7_HighSchoolSweethearts.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D7_HighSchoolSweethearts\M3_D7_HighSchoolSweethearts\obj\Debug\net8.0\M3_D7_HighSchoolSweethearts.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D7_HighSchoolSweethearts\M3_D7_HighSchoolSweethearts\obj\Debug\net8.0\M3_D7_HighSchoolSweethearts.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D7_HighSchoolSweethearts\M3_D7_HighSchoolSweethearts\obj\Debug\net8.0\ref\M3_D7_HighSchoolSweethearts.dll
