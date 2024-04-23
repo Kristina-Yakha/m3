@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("M3_D6_SqueakyClean")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d463c51a6ca5f840f9a5aa3c3f3d5ab52963f5f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fba5cadea80aa5297f46f0fdde24ea6814dba471")]
 [assembly: System.Reflection.AssemblyProductAttribute("M3_D6_SqueakyClean")]
 [assembly: System.Reflection.AssemblyTitleAttribute("M3_D6_SqueakyClean")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

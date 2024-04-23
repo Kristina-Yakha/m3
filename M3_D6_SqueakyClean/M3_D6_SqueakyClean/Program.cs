@@ -1,41 +1,73 @@
 ﻿using System;
+using System.Globalization;
+using System.Runtime.CompilerServices;
+using System.Text;
 
 
 namespace M3_D6_SqueakyClean
 {
     public static class Identifier
     {
+        
+        
+ 
+
         public static string Clean(string identifier)
+
         {
-
-            string cleanIdentifier;
-
+          
+               
             // Empty spaces are replaced by underscores
 
-            cleanIdentifier = identifier.Replace(' ', '_');
-
-            // Control Characters are replaces with upper case string "CTRL"
-
-            //char.isControl(ch)
-
-            char[] chars = cleanIdentifier.ToCharArray();
-
-            for (int i = 0; i < chars.Length; i++) {
-                if (char.IsControl(chars[i])) chars[i] = ' ';
-            }
-
-            cleanIdentifier = new string(chars);
-
-            cleanIdentifier = cleanIdentifier.Replace(" ", "CTRL");
-
-            return cleanIdentifier; 
-                   
+                identifier= identifier.Replace(' ', '_');
 
 
 
+            
+                char[] chars = identifier.ToCharArray();
+            
+                int controlIndex = 0;
+                string pattern = @"(\p{IsGreek}+(\s)?)+";
+
+            while (controlIndex < chars.Length)
+                {
+                    //replace control characers with upper case striong "CTRL"
+
+                    if (char.IsControl(chars[controlIndex]))
+                    {
+                        identifier = identifier.Replace(Char.ToString(chars[controlIndex]), "CTRL");
+                    }
+
+                    //Convert Kebab_Case to camelCase
+
+                    else if (chars[controlIndex] == '-')
+                    {
+                        string kebab = Char.ToString(Char.ToUpper(chars[controlIndex + 1]));
+                        identifier = identifier.Replace(("-" + Char.ToString(chars[controlIndex + 1])), kebab);
+                    }
+
+                    //Omit Characters that are not letters
+
+                    else if (!char.IsLetter(chars[controlIndex]))
+                {
+                    identifier = identifier.Replace(Char.ToString(chars[controlIndex]), "");
+
+                } else if (chars[controlIndex] == '_')
+                {
+                //https://learn.microsoft.com/de-de/dotnet/api/system.char.gethashcode?view=net-8.0
+                //https://learn.microsoft.com/de-de/dotnet/standard/base-types/character-classes-in-regular-expressions
+                }
 
 
 
+                controlIndex++;
+                    }
+
+
+            
+
+
+                    return identifier; 
                 
             
          }
@@ -55,6 +87,14 @@ namespace M3_D6_SqueakyClean
            
            Console.WriteLine(Clean("my   Id"));
            Console.WriteLine(Clean("my\0Id"));
+           Console.WriteLine(Clean("à-bç-df"));
+           Console.WriteLine(Clean("1😀2😀3😀"));
+            //Console.WriteLine(Clean("MyΟβιεγτFinder"));
+            char greek = 'γ';
+           // Console.WriteLine(Char.IsAscii(greek));
+           // Console.WriteLine(Char.IsAscii('1'));
+         
+
         }
     }
 
