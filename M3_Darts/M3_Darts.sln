@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M3_Darts", "M3_Darts\M3_Darts.csproj", "{D90EFC83-980E-4739-A62D-609E1F2032E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D90EFC83-980E-4739-A62D-609E1F2032E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90EFC83-980E-4739-A62D-609E1F2032E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90EFC83-980E-4739-A62D-609E1F2032E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90EFC83-980E-4739-A62D-609E1F2032E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D851348-9FEB-4CB5-A09E-1079D65A6650}
+	EndGlobalSection
+EndGlobal
