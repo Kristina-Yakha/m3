@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_BeerSong\M3_BeerSong\bin\Debug\net8.0\M3_BeerSong.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_BeerSong\M3_BeerSong\bin\Debug\net8.0\M3_BeerSong.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_BeerSong\M3_BeerSong\bin\Debug\net8.0\M3_BeerSong.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_BeerSong\M3_BeerSong\bin\Debug\net8.0\M3_BeerSong.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_BeerSong\M3_BeerSong\bin\Debug\net8.0\M3_BeerSong.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_BeerSong\M3_BeerSong\obj\Debug\net8.0\M3_BeerSong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_BeerSong\M3_BeerSong\obj\Debug\net8.0\M3_BeerSong.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_BeerSong\M3_BeerSong\obj\Debug\net8.0\M3_BeerSong.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_BeerSong\M3_BeerSong\obj\Debug\net8.0\M3_BeerSong.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_BeerSong\M3_BeerSong\obj\Debug\net8.0\M3_BeerSong.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_BeerSong\M3_BeerSong\obj\Debug\net8.0\M3_BeerSong.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_BeerSong\M3_BeerSong\obj\Debug\net8.0\refint\M3_BeerSong.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_BeerSong\M3_BeerSong\obj\Debug\net8.0\M3_BeerSong.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_BeerSong\M3_BeerSong\obj\Debug\net8.0\M3_BeerSong.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_BeerSong\M3_BeerSong\obj\Debug\net8.0\ref\M3_BeerSong.dll

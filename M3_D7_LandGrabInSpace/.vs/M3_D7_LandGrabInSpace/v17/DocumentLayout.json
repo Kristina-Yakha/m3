@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m3\\M3_D7_LandGrabInSpace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{095268B8-81AF-442E-92EE-B9F26810F6DB}|M3_D7_LandGrabInSpace\\M3_D7_LandGrabInSpace.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m3\\m3_d7_landgrabinspace\\m3_d7_landgrabinspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095268B8-81AF-442E-92EE-B9F26810F6DB}|M3_D7_LandGrabInSpace\\M3_D7_LandGrabInSpace.csproj|solutionrelative:m3_d7_landgrabinspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m3\\M3_D7_LandGrabInSpace\\M3_D7_LandGrabInSpace\\Program.cs",
+              "RelativeDocumentMoniker": "M3_D7_LandGrabInSpace\\Program.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m3\\M3_D7_LandGrabInSpace\\M3_D7_LandGrabInSpace\\Program.cs",
+              "RelativeToolTip": "M3_D7_LandGrabInSpace\\Program.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAUwGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:37:53.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
