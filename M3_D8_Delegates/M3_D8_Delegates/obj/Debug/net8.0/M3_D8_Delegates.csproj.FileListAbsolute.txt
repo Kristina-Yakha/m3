@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D8_Delegates\M3_D8_Delegates\bin\Debug\net8.0\M3_D8_Delegates.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D8_Delegates\M3_D8_Delegates\bin\Debug\net8.0\M3_D8_Delegates.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D8_Delegates\M3_D8_Delegates\bin\Debug\net8.0\M3_D8_Delegates.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D8_Delegates\M3_D8_Delegates\bin\Debug\net8.0\M3_D8_Delegates.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D8_Delegates\M3_D8_Delegates\bin\Debug\net8.0\M3_D8_Delegates.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D8_Delegates\M3_D8_Delegates\obj\Debug\net8.0\M3_D8_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D8_Delegates\M3_D8_Delegates\obj\Debug\net8.0\M3_D8_Delegates.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D8_Delegates\M3_D8_Delegates\obj\Debug\net8.0\M3_D8_Delegates.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D8_Delegates\M3_D8_Delegates\obj\Debug\net8.0\M3_D8_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D8_Delegates\M3_D8_Delegates\obj\Debug\net8.0\M3_D8_Delegates.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D8_Delegates\M3_D8_Delegates\obj\Debug\net8.0\M3_D8_Delegates.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D8_Delegates\M3_D8_Delegates\obj\Debug\net8.0\refint\M3_D8_Delegates.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D8_Delegates\M3_D8_Delegates\obj\Debug\net8.0\M3_D8_Delegates.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D8_Delegates\M3_D8_Delegates\obj\Debug\net8.0\M3_D8_Delegates.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D8_Delegates\M3_D8_Delegates\obj\Debug\net8.0\ref\M3_D8_Delegates.dll

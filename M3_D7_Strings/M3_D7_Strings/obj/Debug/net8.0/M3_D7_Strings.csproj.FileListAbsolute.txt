@@ -1,0 +1,5 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D7_Strings\M3_D7_Strings\obj\Debug\net8.0\M3_D7_Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D7_Strings\M3_D7_Strings\obj\Debug\net8.0\M3_D7_Strings.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D7_Strings\M3_D7_Strings\obj\Debug\net8.0\M3_D7_Strings.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D7_Strings\M3_D7_Strings\obj\Debug\net8.0\M3_D7_Strings.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_D7_Strings\M3_D7_Strings\obj\Debug\net8.0\M3_D7_Strings.sourcelink.json

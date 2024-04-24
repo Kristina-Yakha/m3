@@ -1,105 +1,58 @@
 ﻿using System;
-using System.Globalization;
-using System.Runtime.CompilerServices;
-using System.Text;
+using System.Text.RegularExpressions;
 
-
-namespace M3_D6_SqueakyClean
+public static class Identifier
 {
-    public static class Identifier
+    public static string Clean(string identifier)
     {
-        
-        
- 
+        //identifier= identifier.Replace(' ', '_');
 
-        public static string Clean(string identifier)
+        char[] chars = identifier.ToCharArray();
 
+
+
+        int controlIndex = 0;
+
+        while (controlIndex < chars.Length)
         {
-          
-               
-            // Empty spaces are replaced by underscores
 
-                identifier= identifier.Replace(' ', '_');
+            if (chars[controlIndex] == ' ')
+            {
+                identifier = identifier.Replace(Char.ToString(chars[controlIndex]), "_");
+            }
+            //replace control characers with upper case string "CTRL"
 
+            else if (char.IsControl(chars[controlIndex]))
+            {
+                identifier = identifier.Replace(Char.ToString(chars[controlIndex]), "CTRL");
+            }
 
+            //Convert Kebab_Case to camelCase
 
-            
-                char[] chars = identifier.ToCharArray();
-            
-                int controlIndex = 0;
-                string pattern = @"(\p{IsGreek}+(\s)?)+";
+            else if (chars[controlIndex] == '-')
+            {
+                string kebab = Char.ToString(Char.ToUpper(chars[controlIndex + 1]));
+                identifier = identifier.Replace(("-" + Char.ToString(chars[controlIndex + 1])), kebab);
+            }
 
-            while (controlIndex < chars.Length)
-                {
-                    //replace control characers with upper case striong "CTRL"
+            //Omit Characters that are not letters
 
-                    if (char.IsControl(chars[controlIndex]))
-                    {
-                        identifier = identifier.Replace(Char.ToString(chars[controlIndex]), "CTRL");
-                    }
+            else if (!char.IsLetter(chars[controlIndex]))
+            {
+                identifier = identifier.Replace(Char.ToString(chars[controlIndex]), "");
 
-                    //Convert Kebab_Case to camelCase
-
-                    else if (chars[controlIndex] == '-')
-                    {
-                        string kebab = Char.ToString(Char.ToUpper(chars[controlIndex + 1]));
-                        identifier = identifier.Replace(("-" + Char.ToString(chars[controlIndex + 1])), kebab);
-                    }
-
-                    //Omit Characters that are not letters
-
-                    else if (!char.IsLetter(chars[controlIndex]))
-                {
-                    identifier = identifier.Replace(Char.ToString(chars[controlIndex]), "");
-
-                } else if (chars[controlIndex] == '_')
-                {
-                //https://learn.microsoft.com/de-de/dotnet/api/system.char.gethashcode?view=net-8.0
-                //https://learn.microsoft.com/de-de/dotnet/standard/base-types/character-classes-in-regular-expressions
-                }
-
-
-
-                controlIndex++;
-                    }
-
-
-            
-
-
-                    return identifier; 
-                
-            
-         }
-
-            // replace control characters with the upper case string "CTRL"
-
-
-
-            //put everything together in a string
-
-         
-         
-        
-
-        public static void Main(string[] args)
-        {
-           
-           Console.WriteLine(Clean("my   Id"));
-           Console.WriteLine(Clean("my\0Id"));
-           Console.WriteLine(Clean("à-bç-df"));
-           Console.WriteLine(Clean("1😀2😀3😀"));
-            //Console.WriteLine(Clean("MyΟβιεγτFinder"));
-            char greek = 'γ';
-           // Console.WriteLine(Char.IsAscii(greek));
-           // Console.WriteLine(Char.IsAscii('1'));
-         
-
+            }
+            controlIndex++;
         }
+
+        //Task 5 Greek lower case letters with Regex
+
+        string pattern = @"[α-ω]+";
+
+        identifier = Regex.Replace(identifier, pattern, "");
+
+        return identifier;
+
+
     }
-
-    
 }
-
-
-
