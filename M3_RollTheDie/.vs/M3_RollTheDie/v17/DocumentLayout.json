@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m3\\M3_RollTheDie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C500BB8-BE66-42DA-907A-A4244686F535}|M3_RollTheDie\\M3_RollTheDie.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m3\\m3_rollthedie\\m3_rollthedie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C500BB8-BE66-42DA-907A-A4244686F535}|M3_RollTheDie\\M3_RollTheDie.csproj|solutionrelative:m3_rollthedie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m3\\M3_RollTheDie\\M3_RollTheDie\\Program.cs",
+              "RelativeDocumentMoniker": "M3_RollTheDie\\Program.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m3\\M3_RollTheDie\\M3_RollTheDie\\Program.cs",
+              "RelativeToolTip": "M3_RollTheDie\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:37:13.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
