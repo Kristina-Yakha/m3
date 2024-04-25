@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("M3_TracksOnTracks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4aa3656f4c5f7f515b134829d814d3794712546")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5b5123aac3a41a9b01f9ea06d33eac3f87fffe9")]
 [assembly: System.Reflection.AssemblyProductAttribute("M3_TracksOnTracks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("M3_TracksOnTracks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
