@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("M3_RobotSimulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31fb640443641e2301e5988a4a0186b9336b509b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4aa3656f4c5f7f515b134829d814d3794712546")]
 [assembly: System.Reflection.AssemblyProductAttribute("M3_RobotSimulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("M3_RobotSimulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
