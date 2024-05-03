@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Isogram\M3_Isogram\bin\Debug\net8.0\M3_Isogram.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Isogram\M3_Isogram\bin\Debug\net8.0\M3_Isogram.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Isogram\M3_Isogram\bin\Debug\net8.0\M3_Isogram.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Isogram\M3_Isogram\bin\Debug\net8.0\M3_Isogram.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Isogram\M3_Isogram\bin\Debug\net8.0\M3_Isogram.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Isogram\M3_Isogram\obj\Debug\net8.0\M3_Isogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Isogram\M3_Isogram\obj\Debug\net8.0\M3_Isogram.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Isogram\M3_Isogram\obj\Debug\net8.0\M3_Isogram.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Isogram\M3_Isogram\obj\Debug\net8.0\M3_Isogram.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Isogram\M3_Isogram\obj\Debug\net8.0\M3_Isogram.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Isogram\M3_Isogram\obj\Debug\net8.0\M3_Isogram.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Isogram\M3_Isogram\obj\Debug\net8.0\refint\M3_Isogram.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Isogram\M3_Isogram\obj\Debug\net8.0\M3_Isogram.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Isogram\M3_Isogram\obj\Debug\net8.0\M3_Isogram.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Isogram\M3_Isogram\obj\Debug\net8.0\ref\M3_Isogram.dll
