@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M3_InternationalCallingConnoisseur", "M3_InternationalCallingConnoisseur\M3_InternationalCallingConnoisseur.csproj", "{0FC192E2-BD97-4080-BA14-ADC082779624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FC192E2-BD97-4080-BA14-ADC082779624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC192E2-BD97-4080-BA14-ADC082779624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC192E2-BD97-4080-BA14-ADC082779624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC192E2-BD97-4080-BA14-ADC082779624}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9E8A844-DB8D-46AD-89EE-AE2826481142}
+	EndGlobalSection
+EndGlobal
