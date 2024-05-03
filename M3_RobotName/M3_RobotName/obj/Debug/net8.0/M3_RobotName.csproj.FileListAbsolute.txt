@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_RobotName\M3_RobotName\bin\Debug\net8.0\M3_RobotName.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_RobotName\M3_RobotName\bin\Debug\net8.0\M3_RobotName.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_RobotName\M3_RobotName\bin\Debug\net8.0\M3_RobotName.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_RobotName\M3_RobotName\bin\Debug\net8.0\M3_RobotName.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_RobotName\M3_RobotName\bin\Debug\net8.0\M3_RobotName.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_RobotName\M3_RobotName\obj\Debug\net8.0\M3_RobotName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_RobotName\M3_RobotName\obj\Debug\net8.0\M3_RobotName.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_RobotName\M3_RobotName\obj\Debug\net8.0\M3_RobotName.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_RobotName\M3_RobotName\obj\Debug\net8.0\M3_RobotName.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_RobotName\M3_RobotName\obj\Debug\net8.0\M3_RobotName.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_RobotName\M3_RobotName\obj\Debug\net8.0\M3_RobotName.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_RobotName\M3_RobotName\obj\Debug\net8.0\refint\M3_RobotName.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_RobotName\M3_RobotName\obj\Debug\net8.0\M3_RobotName.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_RobotName\M3_RobotName\obj\Debug\net8.0\M3_RobotName.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_RobotName\M3_RobotName\obj\Debug\net8.0\ref\M3_RobotName.dll
