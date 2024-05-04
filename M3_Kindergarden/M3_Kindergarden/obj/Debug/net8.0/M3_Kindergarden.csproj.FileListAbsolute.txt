@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Kindergarden\M3_Kindergarden\bin\Debug\net8.0\M3_Kindergarden.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Kindergarden\M3_Kindergarden\bin\Debug\net8.0\M3_Kindergarden.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Kindergarden\M3_Kindergarden\bin\Debug\net8.0\M3_Kindergarden.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Kindergarden\M3_Kindergarden\bin\Debug\net8.0\M3_Kindergarden.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Kindergarden\M3_Kindergarden\bin\Debug\net8.0\M3_Kindergarden.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Kindergarden\M3_Kindergarden\obj\Debug\net8.0\M3_Kindergarden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Kindergarden\M3_Kindergarden\obj\Debug\net8.0\M3_Kindergarden.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Kindergarden\M3_Kindergarden\obj\Debug\net8.0\M3_Kindergarden.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Kindergarden\M3_Kindergarden\obj\Debug\net8.0\M3_Kindergarden.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Kindergarden\M3_Kindergarden\obj\Debug\net8.0\M3_Kindergarden.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Kindergarden\M3_Kindergarden\obj\Debug\net8.0\M3_Kindergarden.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Kindergarden\M3_Kindergarden\obj\Debug\net8.0\refint\M3_Kindergarden.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Kindergarden\M3_Kindergarden\obj\Debug\net8.0\M3_Kindergarden.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Kindergarden\M3_Kindergarden\obj\Debug\net8.0\M3_Kindergarden.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_Kindergarden\M3_Kindergarden\obj\Debug\net8.0\ref\M3_Kindergarden.dll
