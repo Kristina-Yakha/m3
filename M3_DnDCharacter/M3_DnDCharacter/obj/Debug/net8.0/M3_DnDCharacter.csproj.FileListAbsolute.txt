@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_DnDCharacter\M3_DnDCharacter\obj\Debug\net8.0\M3_DnDCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_DnDCharacter\M3_DnDCharacter\obj\Debug\net8.0\M3_DnDCharacter.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_DnDCharacter\M3_DnDCharacter\obj\Debug\net8.0\M3_DnDCharacter.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_DnDCharacter\M3_DnDCharacter\obj\Debug\net8.0\M3_DnDCharacter.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_DnDCharacter\M3_DnDCharacter\obj\Debug\net8.0\M3_DnDCharacter.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_DnDCharacter\M3_DnDCharacter\bin\Debug\net8.0\M3_DnDCharacter.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_DnDCharacter\M3_DnDCharacter\bin\Debug\net8.0\M3_DnDCharacter.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_DnDCharacter\M3_DnDCharacter\bin\Debug\net8.0\M3_DnDCharacter.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_DnDCharacter\M3_DnDCharacter\bin\Debug\net8.0\M3_DnDCharacter.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_DnDCharacter\M3_DnDCharacter\bin\Debug\net8.0\M3_DnDCharacter.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_DnDCharacter\M3_DnDCharacter\obj\Debug\net8.0\M3_DnDCharacter.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_DnDCharacter\M3_DnDCharacter\obj\Debug\net8.0\refint\M3_DnDCharacter.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_DnDCharacter\M3_DnDCharacter\obj\Debug\net8.0\M3_DnDCharacter.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_DnDCharacter\M3_DnDCharacter\obj\Debug\net8.0\M3_DnDCharacter.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_DnDCharacter\M3_DnDCharacter\obj\Debug\net8.0\ref\M3_DnDCharacter.dll
