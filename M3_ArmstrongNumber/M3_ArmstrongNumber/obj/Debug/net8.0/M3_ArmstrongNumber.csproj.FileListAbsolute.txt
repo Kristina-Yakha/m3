@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_ArmstrongNumber\M3_ArmstrongNumber\bin\Debug\net8.0\M3_ArmstrongNumber.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_ArmstrongNumber\M3_ArmstrongNumber\bin\Debug\net8.0\M3_ArmstrongNumber.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_ArmstrongNumber\M3_ArmstrongNumber\bin\Debug\net8.0\M3_ArmstrongNumber.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_ArmstrongNumber\M3_ArmstrongNumber\bin\Debug\net8.0\M3_ArmstrongNumber.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_ArmstrongNumber\M3_ArmstrongNumber\bin\Debug\net8.0\M3_ArmstrongNumber.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_ArmstrongNumber\M3_ArmstrongNumber\obj\Debug\net8.0\M3_ArmstrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_ArmstrongNumber\M3_ArmstrongNumber\obj\Debug\net8.0\M3_ArmstrongNumber.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_ArmstrongNumber\M3_ArmstrongNumber\obj\Debug\net8.0\M3_ArmstrongNumber.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_ArmstrongNumber\M3_ArmstrongNumber\obj\Debug\net8.0\M3_ArmstrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_ArmstrongNumber\M3_ArmstrongNumber\obj\Debug\net8.0\M3_ArmstrongNumber.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_ArmstrongNumber\M3_ArmstrongNumber\obj\Debug\net8.0\M3_ArmstrongNumber.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_ArmstrongNumber\M3_ArmstrongNumber\obj\Debug\net8.0\refint\M3_ArmstrongNumber.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_ArmstrongNumber\M3_ArmstrongNumber\obj\Debug\net8.0\M3_ArmstrongNumber.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_ArmstrongNumber\M3_ArmstrongNumber\obj\Debug\net8.0\M3_ArmstrongNumber.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m3\M3_ArmstrongNumber\M3_ArmstrongNumber\obj\Debug\net8.0\ref\M3_ArmstrongNumber.dll
